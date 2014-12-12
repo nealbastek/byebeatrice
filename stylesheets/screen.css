@@ -514,6 +514,12 @@ dd p:first-child {
   margin-top: 0;
 }
 
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
 /* Content based headers */
 
 #main_content > .header-level-1:first-child,
